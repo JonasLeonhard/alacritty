@@ -19,6 +19,9 @@ window:
   decorations: buttonless
   opacity: 0.95
   startup_mode: Maximized
+  scrolling:
+    history: 10000
+    multiplier: 1
 font:
   normal:
     family: MesloLGSDZ Nerd Font
