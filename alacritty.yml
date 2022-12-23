@@ -33,5 +33,9 @@ font:
     family: MesloLGSDZ Nerd Font
     style: Bold Italic
   size: 15.0
+cursor:
+  vi_mode_style:
+    shape: Block
+    blinking: Off
 live_config_reload: true
 alt_send_esc: false # On Macos alt-KEY's are overridden if you set this to true "[]\{}@..."
