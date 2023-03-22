@@ -42,3 +42,5 @@ cursor:
     blinking: Off
 live_config_reload: true
 alt_send_esc: false # On Macos alt-KEY's are overridden if you set this to true "[]\{}@..."
+key_bindings:
+- { key: Space, mods: Control|Shift, action: ToggleViMode }
