@@ -41,4 +41,3 @@ cursor:
     shape: Block
     blinking: Off
 live_config_reload: true
-alt_send_esc: false # On Macos alt-KEY's are overridden if you set this to true "[]\{}@..."
