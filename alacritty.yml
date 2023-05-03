@@ -24,16 +24,16 @@ window:
     multiplier: 1
 font:
   normal:
-    family: MesloLGMDZ Nerd Font
+    family: MesloLGLDZ Nerd Font
     style: Regular
   bold:
-    family: MesloLGMDZ Nerd Font
+    family: MesloLGLDZ Nerd Font
     style: Bold
   italic:
-    family: MesloLGMDZ Nerd Font
+    family: MesloLGLDZ Nerd Font
     style: Italic
   bold_italic:
-    family: MesloLGMDZ Nerd Font
+    family: MesloLGLDZ Nerd Font
     style: Bold Italic
   size: 15.0
 cursor:
