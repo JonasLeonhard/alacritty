@@ -19,3 +19,6 @@ git clone git@github.com:JonasLeonhard/alacritty.git ~/.config/alacritty
 ```
 
 ![alacritty](./readme/alacritty.png)
+
+## Nushell
+the nushell branch uses nushell as the default startup shell.
