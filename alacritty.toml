@@ -28,8 +28,8 @@ style = "Regular"
 
 [[keyboard.bindings]]
 action = "ToggleViMode"
-key = "Space"
-mods = "Control|Shift"
+key = "v"
+mods = "Option|Shift"
 
 [terminal.shell]
 args = ["--login"]
